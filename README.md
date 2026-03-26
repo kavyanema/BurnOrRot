@@ -1,3 +1,5 @@
+Currently upgrading backend with ML-based classification (v2 in progress)
+
 Burn or Rot is an iOS fitness accountability app that uses Apple Health step data to classify each day as either Burn or Rot.
 Instead of traditional motivational design, the app uses a blunt, behavior-driven approach to encourage consistency and movement.
 
